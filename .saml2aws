@@ -1,0 +1,45 @@
+[default]
+app_id               = 
+url                  = 
+username             = 
+provider             = Okta
+mfa                  = OKTA
+skip_verify          = false
+timeout              = 0
+aws_urn              = urn:amazon:webservices
+aws_session_duration = 43200
+aws_profile          = staging
+resource_id          = 
+subdomain            = 
+role_arn             = 
+region               = 
+http_attempts_count  = 
+http_retry_delay     = 
+
+[sandbox]
+app_id               = 
+url                  = 
+username             = 
+provider             = Okta
+mfa                  = Auto
+skip_verify          = true
+timeout              = 0
+aws_urn              = urn:amazon:webservices
+aws_session_duration = 43200
+aws_profile          = sandbox
+subdomain            = 
+role_arn             =
+
+[prod]
+app_id               = 
+url                  = 
+username             = 
+provider             = Okta
+mfa                  = Auto
+skip_verify          = true
+timeout              = 0
+aws_urn              = urn:amazon:webservices
+aws_session_duration = 3600
+aws_profile          = prod
+subdomain            = 
+role_arn             =
