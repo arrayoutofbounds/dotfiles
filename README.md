@@ -4,6 +4,11 @@ Dotfiles
 ## TO DO 
 
 - Add oh-my-zsh
+- Add Node
+- Add NVM
+- Add NPM
+- Add Java
+- Add Python3
 - Add spectacle
 - Add vimium
 - Add Ad blocker
