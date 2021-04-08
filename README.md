@@ -10,3 +10,4 @@ Dotfiles
 - Add Disconnect
 - Add iterm
 - Add https://github.com/ggreer/the_silver_searcher
+- Add https://github.com/junegunn/fzf
