@@ -9,5 +9,6 @@ Dotfiles
 - Add Ad blocker
 - Add Disconnect
 - Add iterm
+- Add docker
 - Add https://github.com/ggreer/the_silver_searcher
 - Add https://github.com/junegunn/fzf
